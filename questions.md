@@ -27,3 +27,11 @@
 3. IaaS, PaaS, SaaS
 4. vm vs container
 5. Build HA/ Resilience app
+
+### Resources 
+Ohmyform
+https://rosgas.github.io/responsive-timeline/index.html
+https://github.com/rosgas/responsive-timeline
+https://github.com/prabhuignoto/react-chrono
+https://www.whizlabs.com/blog/wp-content/uploads/2019/01/azure-administrator-associate.png
+https://uicookies.com/css-timeline/
